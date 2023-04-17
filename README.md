@@ -1,0 +1,1 @@
+# use_google_bard_an_alternative_to_chatgpt
